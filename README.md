@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/KrishnaPrasad0873/kprasad-azure/_apis/build/status/kprasad-cloud.pipeline?branchName=master)](https://dev.azure.com/KrishnaPrasad0873/kprasad-azure/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
